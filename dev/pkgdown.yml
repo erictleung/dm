@@ -1,7 +1,12 @@
-pandoc: 2.7.3
-pkgdown: 1.6.1.9001
-pkgdown_sha: ce9781a15c7ea07df9fb17a11295ba4abec0b54b
+pandoc: 3.1.11
+pkgdown: 2.1.1.9000
+pkgdown_sha: 7a6ffe4c64e7143ea31031cc8d5a0ba8359db5af
 articles:
+  articles/cheatsheet: cheatsheet.html
+  wip/dm-insert: wip/dm-insert.html
+  wip/dm-readme-old: wip/dm-readme-old.html
+  wip/dm-shiny-dynafilter: wip/dm-shiny-dynafilter.html
+  wip/dm-tips-and-tricks: wip/dm-tips-and-tricks.html
   dm: dm.html
   howto-dm-copy: howto-dm-copy.html
   howto-dm-db: howto-dm-db.html
@@ -13,15 +18,11 @@ articles:
   tech-dm-draw: tech-dm-draw.html
   tech-dm-filter: tech-dm-filter.html
   tech-dm-join: tech-dm-join.html
+  tech-dm-keyed: tech-dm-keyed.html
   tech-dm-low-level: tech-dm-low-level.html
   tech-dm-naming: tech-dm-naming.html
   tech-dm-zoom: tech-dm-zoom.html
-  dm-insert: wip/dm-insert.html
-  dm-readme-old: wip/dm-readme-old.html
-  dm-shiny-dynafilter: wip/dm-shiny-dynafilter.html
-  dm-tips-and-tricks: wip/dm-tips-and-tricks.html
-last_built: 2021-09-01T04:18Z
+last_built: 2024-11-27T03:11Z
 urls:
-  reference: https://cynkra.github.io/dm/reference
-  article: https://cynkra.github.io/dm/articles
-
+  reference: https://dm.cynkra.com/reference
+  article: https://dm.cynkra.com/articles
